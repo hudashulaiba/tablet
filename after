@@ -1,0 +1,36 @@
+<!-- link to more resources (embed?): spreadsheets, office hours, etc. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="imgs/favicon.ico"> <!-- ADD ICON -->
+	<link rel="stylesheet" href="css/html5reset.css">
+	<link rel="stylesheet" href="css/style.css">
+	<title>College Application 101</title>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href = "index.html">Home</a></li>
+                <li><a href = "planning.html">Planning</a></li>
+				<li><a href = "essays.html">Essays</a></li>
+				<li><a href = "finaid.html">Financial Aid</a></li>
+                <li><a href = "after.html">After Apps</a></li>
+			</ul>
+		</nav>
+
+		<h1>College Application 101</h1>
+
+	</header>
+
+	<main>
+        <p> stuff </p>
+	</main>
+
+	<footer>
+		<p>By FGLI. For FGLI. <!-- ADD: EMAIL--> &copy; 2021</p>
+	</footer>
+</body>
+</html>
